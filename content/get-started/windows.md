@@ -1,4 +1,4 @@
----
+sudo apt-get install \---
 title: Windows
 section: get-started
 icon: fab fa-windows
